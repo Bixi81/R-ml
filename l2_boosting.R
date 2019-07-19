@@ -27,7 +27,7 @@ olsssr = sum((y-olspreds)^2)
 print(paste0("OLS SSE: ",olsssr))
 
 #######################
-# Boosting 
+# Boosting
 
 # Initialize f0
 f0 = mean(y)
