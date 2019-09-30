@@ -25,4 +25,10 @@
 2. [Minimal lapply example](https://github.com/Bixi81/R-ml/blob/master/prep_lapply_examples.R)
 3. [Print and store regression tables](https://github.com/Bixi81/R-ml/blob/master/regression_table.R)
 
+## Online resources
+1. [The Tidyverse package](https://www.tidyverse.org/)
+2. [R for data science](https://r4ds.had.co.nz/)
+3. [W3 School: SQL tutorial](https://www.w3schools.com/sql/)
+4. [Book and code: Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
 
