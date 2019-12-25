@@ -2,6 +2,7 @@
 
 ## Generalized Additive Models
 1. [Minimal GAM / regression splines](https://github.com/Bixi81/R-ml/blob/master/GAM_regression_splines.R)
+2. [GAM vs. linear OLS with simulated data](https://github.com/Bixi81/R-ml/blob/master/GAM_regression_splines_simulated_data.R)
 
 ## NLP
 1. [Compare text sequences / fuzzy join on strings](https://github.com/Bixi81/R-ml/blob/master/NLP_compare_text_sequences.R)
