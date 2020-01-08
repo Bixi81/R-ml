@@ -26,6 +26,7 @@
 1. [Factors to dummies using model matrix](https://github.com/Bixi81/R-ml/blob/master/prep_factor_to_dummies.R)
 2. [Minimal lapply example](https://github.com/Bixi81/R-ml/blob/master/prep_lapply_examples.R)
 3. [Print and store regression tables](https://github.com/Bixi81/R-ml/blob/master/regression_table.R)
+4. [Read files from DIR to list of DFs, cbind to one long DF](https://github.com/Bixi81/R-ml/blob/master/prep_read_dfs_to_list_of_dfs.R)
 
 ## Online resources
 1. [The Tidyverse package](https://www.tidyverse.org/)
