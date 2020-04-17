@@ -20,7 +20,8 @@
 1. [Beta regression for rates and proportions](https://github.com/Bixi81/R-ml/blob/master/beta-regression.R)
 2. [Logic of Breusch-Pagan test for heteroscedasticity](https://github.com/Bixi81/R-ml/blob/master/breusch-pagan.R)
 3. [Logic of L2 boosting, minimal example](https://github.com/Bixi81/R-ml/blob/master/l2_boosting.R)
-3. [Logistic regression, minimal example](https://github.com/Bixi81/R-ml/blob/master/Logit_minimal_example.R)
+4. [Logistic regression, minimal example](https://github.com/Bixi81/R-ml/blob/master/Logit_minimal_example.R)
+5. [OLS and gradient descent, minimal example](https://github.com/Bixi81/R-ml/blob/master/lm_OLS_vs_gradient_descent.R)
 
 ## Little helpers
 1. [Factors to dummies using model matrix](https://github.com/Bixi81/R-ml/blob/master/prep_factor_to_dummies.R)
