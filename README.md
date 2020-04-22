@@ -23,6 +23,7 @@
 4. [Logistic regression, minimal example](https://github.com/Bixi81/R-ml/blob/master/Logit_minimal_example.R)
 5. [OLS and gradient descent, minimal example](https://github.com/Bixi81/R-ml/blob/master/lm_OLS_vs_gradient_descent.R)
 6. [How factors (dummies) work in linear models (OLS)](https://github.com/Bixi81/R-ml/blob/master/lm_use_of_factors.R)
+7. [Linear OLS with log-level to estimate growth rates](https://github.com/Bixi81/R-ml/blob/master/log_level_regression.R)
 
 ## Little helpers
 1. [Factors to dummies using model matrix](https://github.com/Bixi81/R-ml/blob/master/prep_factor_to_dummies.R)
