@@ -15,6 +15,7 @@
 
 ## XGBoost 
 1. [Minimal XGBoost regression example](https://github.com/Bixi81/R-ml/blob/master/xgboost_regression.R)
+2. [Minimal XGBoost multiclass example](https://github.com/Bixi81/R-ml/blob/master/xgboost_multiclass.R)
 
 ## Statistics and econometrics
 1. [Beta regression for rates and proportions](https://github.com/Bixi81/R-ml/blob/master/beta-regression.R)
