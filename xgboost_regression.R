@@ -14,6 +14,8 @@ olsssr = sum((y-olspreds)^2)
 require(xgboost)
 dtrain <- xgb.DMatrix(data=as.matrix(x),label=y)
 
+# Note that this is a linear booster, for tree-based use "gbtree" or "dart"
+# See: https://xgboost.readthedocs.io/en/latest/parameter.html#parameters-for-linear-booster-booster-gblinear
 param <- list(booster = "gblinear"
             , tree_method = "gpu_exact"
             , objective = "reg:linear"
