@@ -19,6 +19,7 @@
 3. [Minimal XGBoost binary classification example](https://github.com/Bixi81/R-ml/blob/master/xgboost.R)
 4. [Minimal XGBoost custom objective and loss for regression](https://github.com/Bixi81/R-ml/blob/master/xgboost_custom_objective_regression.R)
 5. [Minimal XGBoost custom objective: Huber loss for regression](https://github.com/Bixi81/R-ml/blob/master/xgboost_customised_objective_huber.R)
+6. [Minimal XGBoost custom objective: Fair loss for regression](https://github.com/Bixi81/R-ml/blob/master/xgboost_custom_objective_fair_loss.R)
 
 ## Statistics and econometrics
 1. [Beta regression for rates and proportions](https://github.com/Bixi81/R-ml/blob/master/beta-regression.R)
