@@ -9,6 +9,7 @@
 2. [Find duplicates in text](https://github.com/Bixi81/R-ml/blob/master/NLP_detect_duplicates.R)
 3. [PDF to TXT](https://github.com/Bixi81/R-ml/blob/master/NLP_pdf_to_txt.R)
 4. [Topic modeling](https://github.com/Bixi81/R-ml/blob/master/NLP_topic_modelling.R)
+5. [Binary classification of short text sequences (minimal example)](https://github.com/Bixi81/R-ml/blob/master/NLP_ngram_short_text.R)
 
 ## Support Vector Machines (SVM)
 1. [Minimal SVM example](https://github.com/Bixi81/R-ml/blob/master/SVM_minimal_example.R)
