@@ -10,6 +10,7 @@
 3. [PDF to TXT](https://github.com/Bixi81/R-ml/blob/master/NLP_pdf_to_txt.R)
 4. [Topic modeling](https://github.com/Bixi81/R-ml/blob/master/NLP_topic_modelling.R)
 5. [Binary classification of short text sequences (minimal example)](https://github.com/Bixi81/R-ml/blob/master/NLP_ngram_short_text.R)
+6. [Regression using a "bag of words" as explanatory variables (minimal example)](https://github.com/Bixi81/R-ml/blob/master/NLP_regression_bag_of_words.R)
 
 ## Support Vector Machines (SVM)
 1. [Minimal SVM example](https://github.com/Bixi81/R-ml/blob/master/SVM_minimal_example.R)
