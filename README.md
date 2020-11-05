@@ -32,6 +32,7 @@
 6. [How factors (dummies) work in linear models (OLS)](https://github.com/Bixi81/R-ml/blob/master/lm_use_of_factors.R)
 7. [Linear OLS with log-level to estimate growth rates](https://github.com/Bixi81/R-ml/blob/master/log_level_regression.R)
 8. [Model Stacking minimal example](https://github.com/Bixi81/R-ml/blob/master/stacking_example.R)
+9. [Play with a normal distribution and z-scores](https://github.com/Bixi81/R-ml/blob/master/play_with_normal_distribution.R)
 
 ## Little helpers
 1. [Factors to dummies using model matrix](https://github.com/Bixi81/R-ml/blob/master/prep_factor_to_dummies.R)
