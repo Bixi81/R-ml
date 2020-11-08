@@ -35,7 +35,7 @@
 9. [Play with a normal distribution and z-scores](https://github.com/Bixi81/R-ml/blob/master/play_with_normal_distribution.R)
 
 ## Keras (R)
-1. [OLS vs. simple Keras neural net (regression, minimal example)(https://github.com/Bixi81/R-ml/blob/master/ols_vs_nn.R)]
+1. [OLS vs. simple Keras neural net (regression, minimal example)](https://github.com/Bixi81/R-ml/blob/master/ols_vs_nn.R)
 
 ## Little helpers
 1. [Factors to dummies using model matrix](https://github.com/Bixi81/R-ml/blob/master/prep_factor_to_dummies.R)
