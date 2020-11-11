@@ -4,7 +4,7 @@ library(fuzzyjoin)
 library(tokenizers)
 
 ##############################
-# Compare text sequences
+# Compare text sequences (words/ngrams)
 
 text1=as.character("Hi my name is Bixi and I like cycling a lot. It is just great!")
 mytext1=data_frame(text1)
@@ -29,6 +29,18 @@ ngram4=as.data.frame(ngram4)
 
 # Find matching sequences of single letters
 semi_join(ngram3,ngram4)
+
+##############################
+# Compare a "long" text sequence and keywords over a certain string sequence
+
+longtext = data.frame(text=c("This is my very long text which will be searched for partial string matches"))
+keywords = data.frame(keywords=c("texts", "match", "foo", "bar"))
+
+ngram1 = unnest_tokens(longtext, characters, text, token = "character_shingles", n = 4)
+ngram2 = unnest_tokens(keywords, characters, keywords, token = "character_shingles", n = 4)
+
+# Find matching sequence(s)
+semi_join(ngram1,ngram2)
 
 ##############################
 # Fuzzy matching of strings
