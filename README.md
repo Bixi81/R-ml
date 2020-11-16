@@ -34,6 +34,7 @@
 7. [Linear OLS with log-level to estimate growth rates](https://github.com/Bixi81/R-ml/blob/master/log_level_regression.R)
 8. [Model Stacking minimal example](https://github.com/Bixi81/R-ml/blob/master/stacking_example.R)
 9. [Play with a normal distribution and z-scores](https://github.com/Bixi81/R-ml/blob/master/play_with_normal_distribution.R)
+10. [Quantile Regression, bootstrapped confidence intervals](https://github.com/Bixi81/R-ml/blob/master/quantile_regression.R)
 
 ## Keras (R)
 1. [OLS vs. simple Keras neural net (regression, minimal example)](https://github.com/Bixi81/R-ml/blob/master/ols_vs_nn.R)
