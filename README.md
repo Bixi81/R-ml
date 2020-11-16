@@ -51,5 +51,6 @@
 2. [R for data science](https://r4ds.had.co.nz/)
 3. [W3 School: SQL tutorial](https://www.w3schools.com/sql/)
 4. [Book and code: Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+5. [GLMnet package tutorial (lasso, ridge regression](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
 
 
